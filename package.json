@@ -1,6 +1,6 @@
 {
   "name": "@tonning/vue-laravel-old",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue helper to use Laravel's old variables",
   "main": "src/index.js",
   "scripts": {
@@ -20,5 +20,17 @@
     "babel-preset-env": "^1.7.0",
     "cross-env": "^5.2.0",
     "laravel-mix": "^3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonning/vue-laravel-old.git"
+  },
+  "keywords": [
+    "laravel",
+    "vue"
+  ],
+  "bugs": {
+    "url": "https://github.com/tonning/vue-laravel-old/issues"
+  },
+  "homepage": "https://github.com/tonning/vue-laravel-old#readme"
 }
