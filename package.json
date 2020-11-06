@@ -19,7 +19,7 @@
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.7.0",
     "cross-env": "^5.2.0",
-    "laravel-mix": "^3.0.0"
+    "laravel-mix": "^5.0.9"
   },
   "repository": {
     "type": "git",
